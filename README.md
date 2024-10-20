@@ -1,4 +1,4 @@
 # Links
 
-Assignment 06 (Compare Map)
-https://andre-bsantos.github.io/Compare_Map/
+### Week 06
+[Compare Map](https://andrebarross.github.io/Prison-Population-Map/Compare_Map/)

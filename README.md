@@ -1,6 +1,6 @@
 # Links
 
 ## Week 06
-[Compare Map](https://andrebarross.github.io/Compare_Map)
+[Compare Map](https://andre-bsantos.github.io/Compare_Map/)
 
-[Detail Map](https://andrebarross.github.io/Prison-Population-Map/Detail_Map/)
+[Detail Map](https://andre-bsantos.github.io/Detail_Map/)

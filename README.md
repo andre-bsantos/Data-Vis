@@ -1,4 +1,3 @@
-# Links
 
 ## Week 06
 [Compare Map](https://andre-bsantos.github.io/Compare_Map/)
